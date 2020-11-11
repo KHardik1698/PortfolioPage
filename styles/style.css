@@ -55,11 +55,6 @@ body {
 .banner {
   width: 100%;
   height: auto;
-  /* display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  justify-content: space-around;
-  align-items: center; */
 }
 .banner-heading {
   padding-top: 10vh;
@@ -113,7 +108,6 @@ body {
 }
 /* Individual Sections with same Styling */
 .section-content {
-  /* height: 100vh; */
   padding: 10vh 0px;
   font-size: 3vh;
 }
@@ -146,9 +140,6 @@ body {
     margin: 0px;
     margin-top: 5%;
   }
-  /* .banner {
-    flex-direction: column;
-  } */
   .banner-heading {
     padding-top: 0px;
   }
