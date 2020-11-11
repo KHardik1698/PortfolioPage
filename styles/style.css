@@ -55,11 +55,11 @@ body {
 .banner {
   width: 100%;
   height: auto;
-  display: flex;
+  /* display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
-  align-items: center;
+  align-items: center; */
 }
 .banner-heading {
   padding-top: 10vh;
@@ -146,9 +146,9 @@ body {
     margin: 0px;
     margin-top: 5%;
   }
-  .banner {
+  /* .banner {
     flex-direction: column;
-  }
+  } */
   .banner-heading {
     padding-top: 0px;
   }
